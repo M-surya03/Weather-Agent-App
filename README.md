@@ -48,7 +48,7 @@ The chatbot displays the response and updates the background accordingly.
 🧪 Try It Out
 bash
 Copy code
-git clone https://github.com/your-username/weather-agent-chatbot.git
+git clone https://github.com/M-surya03/weather-Agent-App.git
 cd Weather_Agent
 pip install -r requirements.txt
 python app.py
